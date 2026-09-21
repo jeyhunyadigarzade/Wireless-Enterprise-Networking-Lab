@@ -1,4 +1,4 @@
-# 🚀 Multi-VLAN  Enterprise Network Infrastructure Design & Verification
+# 🚀 Multi-VLAN Wireless Enterprise Network Infrastructure Design & Verification
 
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-v8.x-blue?style=for-the-badge&logo=cisco)
 ![Network Architecture](https://img.shields.io/badge/Architecture-Enterprise%20Multi--VLAN-orange?style=for-the-badge)
